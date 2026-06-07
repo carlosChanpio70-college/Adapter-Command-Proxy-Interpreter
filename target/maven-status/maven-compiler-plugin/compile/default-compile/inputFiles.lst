@@ -1,0 +1,12 @@
+E:\Github\Adapter-Command-Proxy-Interpreter\src\main\java\com\example\adaptercommandproxy\AirConditionerAdapter.java
+E:\Github\Adapter-Command-Proxy-Interpreter\src\main\java\com\example\adaptercommandproxy\expressions\TurnOnAirConditionerExpression.java
+E:\Github\Adapter-Command-Proxy-Interpreter\src\main\java\com\example\adaptercommandproxy\expressions\TurnOnLampExpression.java
+E:\Github\Adapter-Command-Proxy-Interpreter\src\main\java\com\example\adaptercommandproxy\ICommand.java
+E:\Github\Adapter-Command-Proxy-Interpreter\src\main\java\com\example\adaptercommandproxy\IDevice.java
+E:\Github\Adapter-Command-Proxy-Interpreter\src\main\java\com\example\adaptercommandproxy\IExpression.java
+E:\Github\Adapter-Command-Proxy-Interpreter\src\main\java\com\example\adaptercommandproxy\ModernLamp.java
+E:\Github\Adapter-Command-Proxy-Interpreter\src\main\java\com\example\adaptercommandproxy\OldAirConditioner.java
+E:\Github\Adapter-Command-Proxy-Interpreter\src\main\java\com\example\adaptercommandproxy\SecurityProxy.java
+E:\Github\Adapter-Command-Proxy-Interpreter\src\main\java\com\example\adaptercommandproxy\SentenceInterpreter.java
+E:\Github\Adapter-Command-Proxy-Interpreter\src\main\java\com\example\adaptercommandproxy\TurnOnCommand.java
+E:\Github\Adapter-Command-Proxy-Interpreter\src\main\java\com\example\adaptercommandproxy\VoiceAssistant.java
